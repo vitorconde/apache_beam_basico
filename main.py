@@ -11,3 +11,4 @@ dengue = (
     | "Leitura do dataset de dengue" >> 
         ReadFromText('casos_dengue.txt', skip_header_lines=1)
 )
+
